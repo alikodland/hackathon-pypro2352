@@ -1,0 +1,11 @@
+discord
+tensorflow
+keras
+API (karena akan pakai gambar punya orang lain)
+
+flask
+flask-sqlalchemy
+jinja
+
+nltk
+requests
